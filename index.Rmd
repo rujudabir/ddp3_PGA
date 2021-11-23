@@ -1,7 +1,7 @@
 ---
 title: "Developing data products - Week 3 Assignment"
-author: "MassaBrasil"
-date: "29-jan-2018"
+author: "Rujula Dabir"
+date: "23-Nov-2021"
 output: ioslides_presentation
 ---
 
@@ -65,14 +65,3 @@ Simply put:
 
   
 
-References
-----
-
-- "Axes Labels in R - How to set the title and axis-titles in R" 
-<https://plot.ly/r/figure-labels/>
-
-- "Presentations with ioslides - Overview" 
-<http://rmarkdown.rstudio.com/ioslides_presentation_format.html>
-
-- "Motor Trend Car Road Tests" 
-<https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/mtcars.html>
